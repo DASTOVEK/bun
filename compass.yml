@@ -1,0 +1,13 @@
+name: bun
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/84fddd93-ef61-4682-87b2-9e13bccef90b
+description: Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
